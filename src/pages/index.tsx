@@ -1,7 +1,7 @@
 
 export default function Index(){
     
-    return(
+    return (
     <>
       <main className="bg-black h-screen text-white">
         <div className="text-center pt-10 text-7xl">
@@ -15,4 +15,4 @@ aseti mastebis gatyvnistanave unda gaacno tavi da tu iazvobs deda unda moutynat.
       </main>
     </>
   );
-};
+}
