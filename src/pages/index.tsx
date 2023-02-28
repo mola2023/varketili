@@ -3,7 +3,7 @@ export default function Index(){
     
     return (
     <>
-      <main className="bg-black h-screen text-white">
+      <main className="bg-black min-h-screen h-auto text-white">
         <div className="text-center pt-10 text-7xl">
 <div className="md:flex justify-center md:items-center gap-10">
 
