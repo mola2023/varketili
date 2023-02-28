@@ -22,4 +22,3 @@ aseti mastebis gatyvnistanave unda gaacno tavi da tu iazvobs deda unda moutynat.
     </>
   );
 };
-
