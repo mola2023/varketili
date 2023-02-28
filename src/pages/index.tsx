@@ -5,7 +5,7 @@ export default function Index(){
     <>
       <main className="bg-black h-screen text-white">
         <div className="text-center pt-10 text-7xl">
-<div className="flex justify-center items-center gap-10">
+<div className="md:flex justify-center md:items-center gap-10">
 
         platos tochkebii <img src="https://i.imgur.com/aDH2dkT.png" alt="" />
 </div>
