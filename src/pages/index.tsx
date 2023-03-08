@@ -1,3 +1,4 @@
+import Link from "next/link";
 
 export default function Index(){
     
@@ -13,7 +14,16 @@ export default function Index(){
 </div>
         </div>
 <div className=" mt-[40px] text-black border border-white my-2 mx-auto w-72"> </div>
+<div className="py-5 text-white text-center w-full flex justify-center text-lg">
+პლატოს ტოჩკები
+</div>
 
+
+<div className="py-5 text-white text-center w-full flex justify-center text-lg">
+  <Link href="https://goo.gl/maps/BE2QD2F5sT1mMqyi6" target="_blank">
+პლატო რობოს წყარო
+  </Link>
+</div>
 
 <div className="fixed bottom-0 text-center w-full h-[35px]">Developed by Giorgi Molashvili © 2023</div>
 
